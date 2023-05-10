@@ -1,0 +1,8 @@
+Private key: nsec1zajhm4ejm9sf50dc88eyex4myqf9wt8ru2d46wjs72am9w0t89yqmamg3e
+Public key: npub1cq57xj4duqvntwtv6p9czyqquu026ewva5mj4gdrs2elkhrguq3q9wtlgz
+
+# account that we will be monitoring and responding to
+# nsec1n6gpk38csg3yy78tgy55kunm4aald8p7s789npyup27zevu80ecqes3mvh
+# npub1x2v0vnn059dv3ep9h45lwfgdnynl9nseqsg7safkrrqdc6va3c2qs0kkjg
+
+# *** these are all test keys
