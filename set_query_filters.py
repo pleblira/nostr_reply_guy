@@ -1,8 +1,17 @@
 from nostr.filter import Filter, Filters
 from nostr.event import Event, EventKind
 from nostr.message_type import ClientMessageType
+from nostr.key import *
+import datetime
+import uuid
 
-def set_query_filters(public_key, since, subscription_id):
+def set_query_filters():
+
+  since = int(datetime.datetime.fromisoformat("2023-05-09").timestamp())
+  subscription_id = uuid.uuid1().hex
+  public_key = PublicKey.from_npub("npub1x2v0vnn059dv3ep9h45lwfgdnynl9nseqsg7safkrrqdc6va3c2qs0kkjg").hex()
+
+
   # setting public key and filters
 
   # query all events from a npub. npub is a list.

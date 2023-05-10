@@ -14,11 +14,7 @@ from set_query_filters import *
 
 # def receive_events(request, filters):
 def receive_events():
-  since = int(datetime.datetime.fromisoformat("2023-05-09").timestamp())
-  subscription_id = uuid.uuid1().hex
-  public_key = PublicKey.from_npub("npub1x2v0vnn059dv3ep9h45lwfgdnynl9nseqsg7safkrrqdc6va3c2qs0kkjg").hex()
-
-  request, filters = set_query_filters(public_key, since, subscription_id)
+  request, filters = set_query_filters()
 
   print(request, filters)
   relay_manager = RelayManager()
