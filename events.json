@@ -1,33 +1,343 @@
 [
     [
         "EVENT",
-        "a3c7c260eede11eda86236a166cdd3a9",
+        "9cb455b6f0d111eda30a804a14673ee3",
         {
-            "content": "Hey there 3580",
-            "created_at": 1683686809,
-            "id": "cae07f62c4618df2c87702b2ebde5484bd2fdcb092c6d1fad842508e81a82154",
+            "content": "sned notes 17",
+            "created_at": 1683773068,
+            "id": "e5a1e4dc5cdee1db69c167942d0f8c4595c84411045d2d18fbb055e03f733528",
             "kind": 1,
             "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
-            "sig": "310c61751dd312b5e3829c5bb7aca29e7d66e9a0bcfce61dc86db8c2d67fb4840356b21079d77f25c2dc9ef637cf11a90a8a7e3982e26baed6411d67f4538718",
+            "sig": "987349f71e1b6eccbac4cc3b9ecd30e83460424224e10db2e81affad9887538aac1018398686034c188da1a2ac7b1bd95d7104e423554214a18d64bfe75456a8",
             "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.882292"
         }
     ],
     [
         "EVENT",
-        "a3c7c260eede11eda86236a166cdd3a9",
+        "9cb455b6f0d111eda30a804a14673ee3",
         {
-            "content": "this is a note",
-            "created_at": 1683685853,
-            "id": "eb136a50e1c40c7386c456f473894a8de8560368f58014da7c06720e2872f715",
+            "content": "sned notes 16",
+            "created_at": 1683772821,
+            "id": "1bbee28b712a840936fe59c189b06de5a45c874126336f57222b02437d313aa6",
             "kind": 1,
             "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
-            "sig": "278c93f7dedb6ae2dfa6c0d039064cecbf61657818b23a32ca42b5f198cf1e272d129794186ed9a148614e320d7fe0747667e84d2757d75ea911937bf1f21a91",
+            "sig": "b70a8000a4c33c69cd88599cf65135bb4a5cee494b7556872acc8affe5ce8801f8036e60309df926cbbe2ed905db4aed6f429e67182d2049c6d7efe32d85673d",
             "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.882851"
         }
     ],
     [
         "EVENT",
-        "cf48adfeeedf11edb91d36a166cdd3a9",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 15",
+            "created_at": 1683772724,
+            "id": "834fe6a3ad557b05fad793c20a6bfe0b91f61d7136478edb0b0d5d36a3bc97e8",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "629c731e6ad51a712abbe5f6178a762a084b65b5e9a8a7a5b27c6220a3b4f04d9dfe1658c31f497ba74714629526859b96da0ce010fad758a70d36a1c9585868",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.883451"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 14",
+            "created_at": 1683772503,
+            "id": "2da05ec169e307fbc499fa3380a6254d9cbabf47e2afc30db077b217004295ff",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "fe9a2c4dbeb6a0042224c48f4b0b40df7c16ce9ac3a886372eee7737e1d078ac0f93057f34b834ba466c5bb2d825a06bc11e55334f5365b83968a3cad799e0c4",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.883920"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 13",
+            "created_at": 1683772024,
+            "id": "81dba7e10a3b3cb4df17a2eff684a7896212aa5ff661076efb5ea9f453a28e4d",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "f29cec9797d7a5433e549bab71b55605ffe3f70a9c0e5772981420365e5b97b9f8d478481f0a0902df1e3c3b273bd753f027c337b5f76d3cae9b06a91de8b901",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.884421"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 12",
+            "created_at": 1683771822,
+            "id": "82788793632576581b193a5356b43f8055b47c34ba137efd79730244322952a3",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "38fd98189e36a7aa17fbbf70314cda56c35091c6f5ae6908bc3bbd28fb574014a65f5063be0767468c111fe8a3617e3f265b1045b05b77640022b23e77edfc18",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.885197"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 11",
+            "created_at": 1683770920,
+            "id": "b1401b6efdc518cd7c4c4c812ff988be30819ec35ce169ae180536f3d3cb7584",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "c163f4629c940f7395269f18c1aa1727413ed7d45567b92049a2cc89bb84159c1769abb6cac9ca50d50136c8648075b41768874b7a98e9cee8d22262823513b1",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.885803"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 10",
+            "created_at": 1683770816,
+            "id": "9035346cc630489b1ab9c8c5605c253b2ab506af96ba94b33669aa81735ebafa",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "d391864530f8b43a37419cf2331b2b7258077922e6f8e9d98981936506a9fffb5ffb5b9411766c090c7f50386de597ae0f46f2cb6e587626a7acfeffaabbba54",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.886369"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 9",
+            "created_at": 1683770747,
+            "id": "b059a8c9bff6ccd95538d652a2de4b44b692c0ff03a4d1a1d7b581595591daf6",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "8d86192e61c34c08699c95da059d86f8922da195dd7f69c6bcbf5a79fb8f7152665182f6fcd594a3da2680b02610f99cacb2d7275973554eaed43fcc2b43692d",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.886988"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 8",
+            "created_at": 1683770480,
+            "id": "c47364b289a82de26378ecba49b4f723e5c84d510a7b9d4f227d855847f49dcc",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "3fa7a9db2db15fcff8c2a40fe66746f477b0f7457c25c1ccb46bbad5e4758384c54eecce5089e6bea6559f83c3440f86a0fa1ed79df426d642e95108d1bd38e8",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.887822"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 7",
+            "created_at": 1683768974,
+            "id": "b40e937820bf5fbf7cd0f82068f913d64a32135d00adf0c047700f55b7938ba1",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "bc8c05031ab9c9cc3755866c134af1f75396fb331cff0ec659db7a32442a3035e5614c63c54af0af88bd5f6c18410d1258ee693b7eeaa3db0c44d7bcbc572e88",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.889908"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 6",
+            "created_at": 1683763489,
+            "id": "9f0ea30a30a94f9504bd35edb754789b6419e765704903e0c14f4317f41d08bc",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "4cb4261acba8381147762c4ae7e134aed07c8bc834adbaa713e60440c0499543293d351c3de3ab60bcd217b0622c837548fe87d00a0a95bc4de82ee9eb75a6d7",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.891246"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 5",
+            "created_at": 1683762788,
+            "id": "2545705582266a0572a4d5ef78001787f19930ce6a4ff0661d82865bb8322db8",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "33c8129221460f383562b93abf077d566c62a0306ab57c509f91e7096ec3f713696ae34166b8da95b4746bd59060726fac0cf11b50b1de8a1f46f142815148f6",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.893342"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 4",
+            "created_at": 1683736111,
+            "id": "902e6b6fa88b082c85c6978695796941e5db200fdc6c704a1557632d42e8e271",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "df2a5489bc0b5241bc646c618ad6d141d0f9c86cbde9db0297024fc9e3aceefe9884dc74d7f64b687e1791102a744f7a4a3f9bc5d4cd006284e133c7e10345ac",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.896440"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 3",
+            "created_at": 1683733700,
+            "id": "547bdbf3e025c6fae87c4af5595704f641647489220663698aff5da0bd096cf8",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "994658e39633e520042058c4947f0f56d57f8318b9202eab2eb5963b9d8778e611562831a44fa51a192a56594ead044df0c7b246eebfc61b8cf8c2da0f00df66",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.897453"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 2",
+            "created_at": 1683729797,
+            "id": "5396a871f49e12cee5b28b9b8741d80c7ecedfd33a204606ff5a509a06411141",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "02aebac685d736ce385c9c2bd1862267f3af320052a9c5facffe10aa0c0af345f55c211e578fef8836706c8761e87bbf9a4bd7f21b52ad087852e872bce6845f",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.898408"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes",
+            "created_at": 1683729608,
+            "id": "600d42e53637a1c81deea828046688805cc3c15a7678cc374fd924c01b8001f0",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "815a8e148c6ba7b5800ca8017f42ab54215b67733512d8277cfbe73269707f9bf86e83d3e7a724747a73189b13943a846aad1a19c9b6daf4dc0f700785adb3e0",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.900072"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "again",
+            "created_at": 1683724802,
+            "id": "66da70f390f5ad987ddfbb7758022fdf9983a67ba47fd8c1a93624b5d412ada2",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "f4494dc1de9674ec30bfab2a2fa695372f01fb8b57ac31cc6b17b7c481611df6243ec77e2068384d108edd0a0da3501c4af5e01a137a6aa3f7e73376c00b5718",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.901357"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "one more time",
+            "created_at": 1683724774,
+            "id": "e222c0932888c4ece52e7fcd3603ee67ada84d88ff203d8adae61168c1a6bcfc",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "00ff4ee0771aaa307285a7b5b8a5cc29885a8b03e8c593bad62abf0f420c004c32acae580325c8c15fd89d9a0984b14fd2b00b8b47bb4f11b3284ed6515a2c06",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.902301"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "posting while connection to relay is still open",
+            "created_at": 1683724730,
+            "id": "124fd82025667cbf8903911c6485485351a166e39acd597a2e5de2fa7b391f4c",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "980dfc8efabb01b22ae9c0753a96ba5d602bb479c7ea37c6dc7cbea816ca48647ae228af48597edc30a5bd8e61ac3b709dc6076018b9ae35d1da49e8a2bbb6fa",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.903387"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "This is a new note",
+            "created_at": 1683688221,
+            "id": "7e191190ddad7e63a976e99253eec0bd2844dfe9b4abf3cbd41878305f6ee1f1",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "fae3a3f69baba0675b0de19823900ec4c35fa507f36f95a340b2a0ac855d4e73ca6bfbce886368b1bb5f227bb8f63b0e5e0abc2d73adce12e5e1ab28bfdf8478",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.904449"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
         {
             "content": "This is a reply",
             "created_at": 1683688164,
@@ -43,19 +353,57 @@
                     "reply"
                 ]
             ]
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.905929"
         }
     ],
     [
         "EVENT",
-        "cf48adfeeedf11edb91d36a166cdd3a9",
+        "9cb455b6f0d111eda30a804a14673ee3",
         {
-            "content": "This is a new note",
-            "created_at": 1683688221,
-            "id": "7e191190ddad7e63a976e99253eec0bd2844dfe9b4abf3cbd41878305f6ee1f1",
+            "content": "Hey there 3580",
+            "created_at": 1683686809,
+            "id": "cae07f62c4618df2c87702b2ebde5484bd2fdcb092c6d1fad842508e81a82154",
             "kind": 1,
             "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
-            "sig": "fae3a3f69baba0675b0de19823900ec4c35fa507f36f95a340b2a0ac855d4e73ca6bfbce886368b1bb5f227bb8f63b0e5e0abc2d73adce12e5e1ab28bfdf8478",
+            "sig": "310c61751dd312b5e3829c5bb7aca29e7d66e9a0bcfce61dc86db8c2d67fb4840356b21079d77f25c2dc9ef637cf11a90a8a7e3982e26baed6411d67f4538718",
             "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.906849"
+        }
+    ],
+    [
+        "EVENT",
+        "9cb455b6f0d111eda30a804a14673ee3",
+        {
+            "content": "this is a note",
+            "created_at": 1683685853,
+            "id": "eb136a50e1c40c7386c456f473894a8de8560368f58014da7c06720e2872f715",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "278c93f7dedb6ae2dfa6c0d039064cecbf61657818b23a32ca42b5f198cf1e272d129794186ed9a148614e320d7fe0747667e84d2757d75ea911937bf1f21a91",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:31:00.907589"
+        }
+    ],
+    [
+        "EVENT",
+        "c1ed90e0f0d111eda30a804a14673ee3",
+        {
+            "content": "sned notes 18",
+            "created_at": 1683901917,
+            "id": "b195d2bfc4ada64d24919defce4f3404953c477b7fe79fb99c84ceba831f1cf2",
+            "kind": 1,
+            "pubkey": "3298f64e6fa15ac8e425bd69f7250d9927f2ce190411e8753618c0dc699d8e14",
+            "sig": "c62909b818b1accfd163b29fdd683369ca0a76cb30e1ab209ac7f9c37058c1370f151a0707d89323c08ec01c117ed4894b8ccf037c8bf0f9c9acfee5983a5632",
+            "tags": []
+        },
+        {
+            "datetime_event_was_queried": "2023-05-12T10:32:03.334923"
         }
     ]
 ]
